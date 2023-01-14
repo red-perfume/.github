@@ -1,3 +1,5 @@
+<img src="logo.svg" align="right" height="300" alt="Red Perfume logo">
+
 # Red Perfume
 
 Red Perfume is a group of open-source projects relating to Automated CSS Atomization.
