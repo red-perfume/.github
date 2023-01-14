@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/red-perfume/.github/main/profile/logo.svg" align="right" height="265" alt="Red Perfume logo">
+<img src="https://raw.githubusercontent.com/red-perfume/.github/main/profile/logo.svg" align="right" height="250" alt="Red Perfume logo">
           
 <p>
 <img src="https://raw.githubusercontent.com/red-perfume/.github/main/profile/rp-lettering.png" width="240" alt="Red Perfume"><br>
